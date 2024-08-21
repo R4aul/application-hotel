@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "278179383547",
+    "project_id": "proyecto-hotel-2",
+    "storage_bucket": "proyecto-hotel-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278179383547:android:c654ecc8f7f06dd6d9885e",
+        "android_client_info": {
+          "package_name": "com.hotelraul.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClPm7FLIfhvHv3ZWf4_CLkJt2vSfVG5kk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
